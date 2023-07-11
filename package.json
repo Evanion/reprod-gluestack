@@ -48,7 +48,7 @@
   "dependencies": {
     "@expo/html-elements": "latest",
     "@gluestack-style/animation-plugin": "latest",
-    "@gluestack-style/react": "latest",
+    "@gluestack-style/react": "^0.1.32",
     "@gluestack-ui/actionsheet": "latest",
     "@gluestack-ui/avatar": "latest",
     "@gluestack-ui/button": "latest",
@@ -73,7 +73,7 @@
     "@gluestack-ui/toast": "latest",
     "@gluestack-ui/tooltip": "latest",
     "@gluestack-ui/vstack": "latest",
-    "@gluestack/ui-next-adapter": "^2.1.6",
+    "@gluestack/ui-next-adapter": "^2.1.7",
     "@legendapp/motion": "latest",
     "next": "13.4.1",
     "react": "18.2.0",

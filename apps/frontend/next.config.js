@@ -18,8 +18,8 @@ const nextConfig = {
 
 const plugins = [
   // Add more Next.js plugins to this list if needed.
+  withGluestackUI,
   withNx,
-  // withGluestackUI, // uncomment this line to enable Gluestack UI
 ];
 
 module.exports = composePlugins(...plugins)(nextConfig);
